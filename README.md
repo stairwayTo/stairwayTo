@@ -7,7 +7,7 @@ Je suis **Concepteur développeur d'applications** en formation au [Campus Numé
 
 ---
 
-## 🔧 Compétences techniques
+## 🔧 Compétences
 
 Voici les principaux langages et frameworks que j'ai acquis jusqu'à présent :
 
