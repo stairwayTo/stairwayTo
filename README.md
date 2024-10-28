@@ -41,6 +41,6 @@ Voici les principaux langages et frameworks que j'ai acquis jusqu'à présent :
 ## 🚀 Projets
 
 - [**Découverte Laravel E-Commerce**](https://github.com/toncompteperso/DecouverteLaravel-ECommerce) : Un projet d'e-commerce réalisé avec Laravel.
-- [**PWA Vue.js Project**](https://github.com/toncompteperso/projet-vue-pwa) : Une application Vue.js transformée en PWA, avec intégration d'une API.
+- [**PWA Vue.js Project**](https://github.com/stairwayTo/Campus_DecouverteVue) : Une application Vue.js transformée en PWA, avec intégration d'une API.
 
 ---
