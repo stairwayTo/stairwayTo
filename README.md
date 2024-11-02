@@ -1,15 +1,15 @@
-# Bienvenue sur mon profil GitHub 👋
+# Bienvenue.
 
 ## 💬 À propos de moi
 Je suis **Concepteur développeur d'applications** en formation au [Campus Numérique in the Alps](https://www.le-campus-numerique.fr/).
 
-- Je suis à la recherche d'une **alternance** à partir de février 2025 pour une durée de 12 mois.
+### ⚠️ À la recherche d'une **alternance** à partir de février 2025 pour une durée de 12 mois. ⚠️
 
 ---
 
-## 🔧 Compétences
+## 🔧 Compétences :
 
-Voici les principaux langages et frameworks que j'ai acquis jusqu'à présent :
+### Voici les principaux langages et frameworks que j'ai pu aborder jusqu'à présent :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -33,8 +33,9 @@ Voici les principaux langages et frameworks que j'ai acquis jusqu'à présent :
 
 ## 📫 Comment me contacter ?
 
-- **Email** : [emelcamille@gmail.com](mailto:emelcamille@gmail.com)
-- **LinkedIn** : [camille-emel](https://www.linkedin.com/in/camille-emel)
+- **Email** : <a href="mailto:emelcamille@gmail.com" target="_blank">emelcamille@gmail.com</a>
+- **LinkedIn** : <a href="https://www.linkedin.com/in/camille-emel" target="_blank">camille-emel</a>
+
 
 ---
 
