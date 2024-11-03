@@ -41,7 +41,7 @@ Je suis **Concepteur développeur d'applications** en formation au [Campus Numé
 
 ## 🚀 Projets
 
-- [**Découverte Laravel E-Commerce**](https://github.com/toncompteperso/DecouverteLaravel-ECommerce) : Un projet d'e-commerce réalisé avec Laravel.
+- [**Découverte Laravel E-Commerce**](https://github.com/camille-emel/Decouverte-Laravel-Ecommerce) : Un projet d'e-commerce réalisé avec Laravel.
 - [**PWA Vue.js Project**](https://github.com/stairwayTo/Campus_DecouverteVue) : Une application Vue.js transformée en PWA, avec intégration d'une API.
 
 ---
